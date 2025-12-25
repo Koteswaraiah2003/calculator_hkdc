@@ -16,9 +16,7 @@ void Calculator::menu()
 int Calculator::add(int a, int b)
 {
 
-    cout << "from Dixith" << endl;
 
-    cout << "from Chetan" << endl;
 
     cout << "from Dixith" << endl;
 
@@ -28,9 +26,6 @@ int Calculator::add(int a, int b)
 int Calculator::subtract(int a, int b)
 {
 
-    cout << "from Dixith" << endl;
-
-    cout << "from Chetan" << endl;
 
     cout << "from Dixith" << endl;
 
@@ -39,10 +34,6 @@ int Calculator::subtract(int a, int b)
 
 int Calculator::multiply(int a, int b)
 {
-
-     cout << "from Dixith" << endl;
-
-     cout << "from Chetan" << endl;
 
      cout << "from Dixith" << endl;
 
