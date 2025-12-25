@@ -40,4 +40,5 @@ double Calculator::divide(int a, int b)
         return 0;
     }
     return (a) / b;
+    return static_cast<double>(a) / b;
 }
