@@ -9,5 +9,6 @@ int main()
     calc.menu();
 
     cout << "Hello World!" << endl;
+
     return 0;
 }
